@@ -28,8 +28,9 @@ Open the new environment you have created and click on the "Open the terminal" o
 3. Streamlit option menu (pip install streamlit-option-menu)
 Note- The command may vary depending on the version of your system and exisiting frameworks. Search the browser in case of error.
    
-To host the spyder file code we open the terminal and paste the following code in the terminal
-streamlit run "C:\Users\gupta\OneDrive\Desktop\Mini Project\Multiple Disease Prediction.py"
-Copy the path of your spyder file and then paste this command in your terminal.
-The local host will run in your browser.
+To host the spyder file code we open the terminal and paste the following code with changes in your terminal.
+
+streamlit run "C:\Users\gupta\OneDrive\Desktop\Mini Project\Multiple Disease Prediction.py" 
+   Copy the path of your spyder file and then paste this command in your terminal.
+   The local host will run in your browser.
 
