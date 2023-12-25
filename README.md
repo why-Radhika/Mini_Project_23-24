@@ -30,7 +30,8 @@ Note- The command may vary depending on the version of your system and exisiting
    
 To host the spyder file code we open the terminal and paste the following code with changes in your terminal.
 
-streamlit run "C:\Users\gupta\OneDrive\Desktop\Mini Project\Multiple Disease Prediction.py" 
-   Copy the path of your spyder file and then paste this command in your terminal.
+- streamlit run "C:\Users\gupta\OneDrive\Desktop\Mini Project\Multiple Disease Prediction.py" 
+
+   1. Copy the path of your spyder file and then paste this command in your terminal.
    The local host will run in your browser.
 
